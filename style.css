@@ -1,0 +1,40 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    list-style: none;
+}
+.my-image{
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+}
+.d-grid{
+    font-size: 18px;
+}
+.lead{
+    text-align:center;
+    font-size: 24px;
+    
+}
+.container1{
+display:flex;
+gap: 5px;
+text-align:center;
+ font-size: 30px;
+ font-weight: bold;
+}
+.container2{
+    padding-top: 5px;
+}
+
+li{
+    text-align:left;
+    font-size: 18px;
+   font-weight: 100;
+}
+.nav-item img{
+width: 30px;
+    
+}
+.nav-item{
+    width: 56px;
+}
